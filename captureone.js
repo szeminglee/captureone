@@ -7,7 +7,7 @@
 **************************************
 
 [rewrite_local]
-^https:\/\/id\.captureone\.com\/api\/vip\/detail url script-response-body https://raw.githubusercontent.com/anyehttp/quantumult-x/main/Adguard/qf.js
+^https:\/\/id\.captureone\.com\/api\/vip\/detail url script-response-body https://github.com/szeminglee/captureone/blob/main/captureone.js
 
 [mitm]
 hostname = id.captureone.com
